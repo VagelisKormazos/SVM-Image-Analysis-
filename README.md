@@ -2,6 +2,9 @@
 
 This repository contains a Python script for image colorization using superpixels and local regression. The implemented workflow includes the following steps:
 
+![Ferrari,seg=600,comp=15](https://github.com/VagelisKormazos/SVM-Image-Analysis-/assets/100516014/e1274405-46a1-494b-b72b-090e5017505c)
+
+
 ## Workflow Overview
 
 1. **Image Representation in the Lab Color Space:**
